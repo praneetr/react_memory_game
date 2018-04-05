@@ -1,2 +1,1 @@
-# react_memory_game
-A simple memory game created with React
+A simple memory game created with React. Click on an image to earn points, but don't click on any more than once!

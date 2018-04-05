@@ -1,0 +1,20 @@
+.header {
+    width: 100%;
+    font-size: 30px;
+    color: yellow;
+    margin-bottom: 10px;
+  }
+  
+  .title {
+    float: left;
+  }
+  
+  .scores {
+    float: right;
+  }
+
+  .subheader {
+    float: right;
+    margin-top: 10px;
+    color: yellow;
+  }

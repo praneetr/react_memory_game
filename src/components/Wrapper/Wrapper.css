@@ -1,0 +1,9 @@
+.wrapper {
+    background: black;
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 10px;
+    justify-content: space-around;
+    overflow: auto;
+  }

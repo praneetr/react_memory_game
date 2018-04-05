@@ -1,0 +1,17 @@
+.card {
+    border-radius: 2px;
+    height: 340px;
+    width: 300px;
+    margin: 2rem;
+    position: relative;
+    text-align: center; 
+  }
+  
+  .card > .img-container {
+    height: 100%;
+    text-align: center; 
+    background: yellow;
+  }
+  .card > .img-container > img {
+    width: 50%
+  }
